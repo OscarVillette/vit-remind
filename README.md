@@ -1,6 +1,6 @@
 # vit_reminder
 
-A new Flutter project.
+A personal Flutter project to try and make a mobile app that reminds me to take vitamins every day. Also a good opportunity to learn about Flutter.
 
 ## Getting Started
 
